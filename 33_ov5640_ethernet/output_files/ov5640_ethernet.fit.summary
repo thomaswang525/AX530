@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Oct 31 18:48:19 2016
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : ov5640_ethernet
+Top-level Entity Name : ov5640_ethernet
+Family : Cyclone IV E
+Device : EP4CE30F23C8
+Timing Models : Final
+Total logic elements : 1,079 / 28,848 ( 4 % )
+    Total combinational functions : 992 / 28,848 ( 3 % )
+    Dedicated logic registers : 353 / 28,848 ( 1 % )
+Total registers : 362
+Total pins : 49 / 329 ( 15 % )
+Total virtual pins : 0
+Total memory bits : 16,384 / 608,256 ( 3 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Nov 11 21:11:41 2015
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : flash_test
+Top-level Entity Name : flash_test
+Family : Cyclone IV E
+Device : EP4CE30F23C8
+Timing Models : Final
+Total logic elements : 1,070 / 28,848 ( 4 % )
+    Total combinational functions : 741 / 28,848 ( 3 % )
+    Dedicated logic registers : 761 / 28,848 ( 3 % )
+Total registers : 761
+Total pins : 6 / 329 ( 2 % )
+Total virtual pins : 0
+Total memory bits : 172,032 / 608,256 ( 28 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

@@ -1,0 +1,168 @@
+Restore Archived Project report for ov5640_ddr_vga
+Fri Aug 28 17:38:02 2015
+Quartus II 64-Bit Version 12.1 Build 177 11/07/2012 SJ Full Version
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2012 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Fri Aug 28 17:38:02 2015 ;
+; Revision Name                   ; ov5640_ddr_vga                        ;
+; Top-level Entity Name           ; ov5640_ddr_vga                        ;
+; Family                          ; Cyclone IV E                          ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'E:/Project/AX530/verilog/ov5640_ddr_vga/ov5640_ddr_vga_tmp_archive.qar' into the 'E:/Project/AX530/verilog/ov5640_ddr_lcd' directory
+Info: Generated report 'ov5640_ddr_vga.restore.rpt'
+
+
++--------------------------------------------------------------------------------+
+; Files Restored                                                                 ;
++--------------------------------------------------------------------------------+
+; File Name                                                                      ;
++--------------------------------------------------------------------------------+
+; assignment_defaults.qdf                                                        ;
+; ddr2_phy_autodetectedpins.tcl                                                  ;
+; incremental_db/compiled_partitions/ov5640_ddr_vga.db_info                      ;
+; incremental_db/compiled_partitions/ov7670_ddr_vga.db_info                      ;
+; ip_core/ddr/alt_mem_ddrx_addr_cmd.v                                            ;
+; ip_core/ddr/alt_mem_ddrx_addr_cmd_wrap.v                                       ;
+; ip_core/ddr/alt_mem_ddrx_arbiter.v                                             ;
+; ip_core/ddr/alt_mem_ddrx_buffer.v                                              ;
+; ip_core/ddr/alt_mem_ddrx_buffer_manager.v                                      ;
+; ip_core/ddr/alt_mem_ddrx_burst_gen.v                                           ;
+; ip_core/ddr/alt_mem_ddrx_burst_tracking.v                                      ;
+; ip_core/ddr/alt_mem_ddrx_cmd_gen.v                                             ;
+; ip_core/ddr/alt_mem_ddrx_controller.v                                          ;
+; ip_core/ddr/alt_mem_ddrx_controller_st_top.v                                   ;
+; ip_core/ddr/alt_mem_ddrx_csr.v                                                 ;
+; ip_core/ddr/alt_mem_ddrx_dataid_manager.v                                      ;
+; ip_core/ddr/alt_mem_ddrx_ddr2_odt_gen.v                                        ;
+; ip_core/ddr/alt_mem_ddrx_ddr3_odt_gen.v                                        ;
+; ip_core/ddr/alt_mem_ddrx_define.iv                                             ;
+; ip_core/ddr/alt_mem_ddrx_ecc_decoder.v                                         ;
+; ip_core/ddr/alt_mem_ddrx_ecc_decoder_32_syn.v                                  ;
+; ip_core/ddr/alt_mem_ddrx_ecc_decoder_64_syn.v                                  ;
+; ip_core/ddr/alt_mem_ddrx_ecc_encoder.v                                         ;
+; ip_core/ddr/alt_mem_ddrx_ecc_encoder_32_syn.v                                  ;
+; ip_core/ddr/alt_mem_ddrx_ecc_encoder_64_syn.v                                  ;
+; ip_core/ddr/alt_mem_ddrx_ecc_encoder_decoder_wrapper.v                         ;
+; ip_core/ddr/alt_mem_ddrx_fifo.v                                                ;
+; ip_core/ddr/alt_mem_ddrx_input_if.v                                            ;
+; ip_core/ddr/alt_mem_ddrx_list.v                                                ;
+; ip_core/ddr/alt_mem_ddrx_lpddr2_addr_cmd.v                                     ;
+; ip_core/ddr/alt_mem_ddrx_mm_st_converter.v                                     ;
+; ip_core/ddr/alt_mem_ddrx_odt_gen.v                                             ;
+; ip_core/ddr/alt_mem_ddrx_rank_timer.v                                          ;
+; ip_core/ddr/alt_mem_ddrx_rdata_path.v                                          ;
+; ip_core/ddr/alt_mem_ddrx_rdwr_data_tmg.v                                       ;
+; ip_core/ddr/alt_mem_ddrx_sideband.v                                            ;
+; ip_core/ddr/alt_mem_ddrx_tbp.v                                                 ;
+; ip_core/ddr/alt_mem_ddrx_timing_param.v                                        ;
+; ip_core/ddr/alt_mem_ddrx_wdata_path.v                                          ;
+; ip_core/ddr/alt_mem_phy_defines.v                                              ;
+; ip_core/ddr/altmemphy-library/auk_ddr_hp_controller.ocp                        ;
+; ip_core/ddr/ddr2.bsf                                                           ;
+; ip_core/ddr/ddr2.html                                                          ;
+; ip_core/ddr/ddr2.qip                                                           ;
+; ip_core/ddr/ddr2.v                                                             ;
+; ip_core/ddr/ddr2_advisor.ipa                                                   ;
+; ip_core/ddr/ddr2_alt_mem_ddrx_controller_top.v                                 ;
+; ip_core/ddr/ddr2_bb.v                                                          ;
+; ip_core/ddr/ddr2_controller_phy.v                                              ;
+; ip_core/ddr/ddr2_ex_lfsr8.v                                                    ;
+; ip_core/ddr/ddr2_example_driver.v                                              ;
+; ip_core/ddr/ddr2_example_top.sdc                                               ;
+; ip_core/ddr/ddr2_example_top.v                                                 ;
+; ip_core/ddr/ddr2_high_performance_controller-library/auk_ddr_hp_controller.ocp ;
+; ip_core/ddr/ddr2_phy.bsf                                                       ;
+; ip_core/ddr/ddr2_phy.html                                                      ;
+; ip_core/ddr/ddr2_phy.qip                                                       ;
+; ip_core/ddr/ddr2_phy.v                                                         ;
+; ip_core/ddr/ddr2_phy_alt_mem_phy.v                                             ;
+; ip_core/ddr/ddr2_phy_alt_mem_phy_pll.qip                                       ;
+; ip_core/ddr/ddr2_phy_alt_mem_phy_pll.v                                         ;
+; ip_core/ddr/ddr2_phy_alt_mem_phy_pll_bb.v                                      ;
+; ip_core/ddr/ddr2_phy_alt_mem_phy_seq.vhd                                       ;
+; ip_core/ddr/ddr2_phy_alt_mem_phy_seq_wrapper.v                                 ;
+; ip_core/ddr/ddr2_phy_alt_mem_phy_seq_wrapper.vo                                ;
+; ip_core/ddr/ddr2_phy_bb.v                                                      ;
+; ip_core/ddr/ddr2_phy_ddr_pins.tcl                                              ;
+; ip_core/ddr/ddr2_phy_ddr_timing.sdc                                            ;
+; ip_core/ddr/ddr2_phy_ddr_timing.tcl                                            ;
+; ip_core/ddr/ddr2_phy_report_timing.tcl                                         ;
+; ip_core/ddr/ddr2_phy_report_timing_core.tcl                                    ;
+; ip_core/ddr/ddr2_pin_assignments.tcl                                           ;
+; ip_core/ddr/testbench/ddr2_example_top_tb.v                                    ;
+; ip_core/ddr/testbench/ddr2_full_mem_model.v                                    ;
+; ip_core/ddr/testbench/ddr2_mem_model.v                                         ;
+; ip_core/fifo/rdfifo.qip                                                        ;
+; ip_core/fifo/rdfifo.v                                                          ;
+; ip_core/fifo/rdfifo_bb.v                                                       ;
+; ip_core/fifo/wrfifo.qip                                                        ;
+; ip_core/fifo/wrfifo.v                                                          ;
+; ip_core/fifo/wrfifo_bb.v                                                       ;
+; ip_core/pll/pll.ppf                                                            ;
+; ip_core/pll/pll.qip                                                            ;
+; ip_core/pll/pll.v                                                              ;
+; ip_core/pll/pll_bb.v                                                           ;
+; ov5640_ddr_vga.qpf                                                             ;
+; ov5640_ddr_vga.qsf                                                             ;
+; ov7670_ddr_vga.qsf                                                             ;
+; rtl/bank_switch.v                                                              ;
+; rtl/dcfifo_ctrl.v                                                              ;
+; rtl/ddr_2fifo_top.v                                                            ;
+; rtl/ddr_ctrl.v                                                                 ;
+; rtl/mem_burst_v2.v                                                             ;
+; rtl/ov5640/camera_capture.v                                                    ;
+; rtl/ov5640/i2c_com.v                                                           ;
+; rtl/ov5640/power_on_delay.v                                                    ;
+; rtl/ov5640/reg_config.v                                                        ;
+; rtl/ov5640_ddr_vga.v                                                           ;
+; rtl/system_ctrl.v                                                              ;
+; rtl/vga_disp.v                                                                 ;
+; stp1.stp                                                                       ;
++--------------------------------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

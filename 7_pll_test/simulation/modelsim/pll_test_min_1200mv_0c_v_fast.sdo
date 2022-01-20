@@ -1,0 +1,143 @@
+// Copyright (C) 1991-2012 Altera Corporation
+// Your use of Altera Corporation's design tools, logic functions 
+// and other software and tools, and its AMPP partner logic 
+// functions, and any output files from any of the foregoing 
+// (including device programming or simulation files), and any 
+// associated documentation or information are expressly subject 
+// to the terms and conditions of the Altera Program License 
+// Subscription Agreement, Altera MegaCore Function License 
+// Agreement, or other applicable license agreement, including, 
+// without limitation, that your use is for the sole purpose of 
+// programming logic devices manufactured by Altera and sold by 
+// Altera or its authorized distributors.  Please refer to the 
+// applicable agreement for further details.
+
+
+// 
+// Device: Altera EP4CE30F23C8 Package FBGA484
+// 
+
+//
+// This file contains Fast Corner delays for the design using part EP4CE30F23C8,
+// with speed grade M, core voltage 1.2V, and temperature 0 Celsius
+//
+
+// 
+// This SDF file should be used for ModelSim-Altera (Verilog) only
+// 
+
+(DELAYFILE
+  (SDFVERSION "2.1")
+  (DESIGN "pll_test")
+  (DATE "11/11/2015 20:24:20")
+  (VENDOR "Altera")
+  (PROGRAM "Quartus II 64-Bit")
+  (VERSION "Version 12.1 Build 177 11/07/2012 SJ Full Version")
+  (DIVIDER .)
+  (TIMESCALE 1 ps)
+
+  (CELL
+    (CELLTYPE "cycloneive_io_ibuf")
+    (INSTANCE rst_n\~input)
+    (DELAY
+      (ABSOLUTE
+        (IOPATH i o (243:243:243) (794:794:794))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_io_obuf")
+    (INSTANCE clkout1\~output)
+    (DELAY
+      (ABSOLUTE
+        (PORT i (820:820:820) (852:852:852))
+        (IOPATH i o (1680:1680:1680) (1595:1595:1595))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_io_obuf")
+    (INSTANCE clkout2\~output)
+    (DELAY
+      (ABSOLUTE
+        (PORT i (821:821:821) (850:850:850))
+        (IOPATH i o (1670:1670:1670) (1585:1585:1585))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_io_obuf")
+    (INSTANCE clkout3\~output)
+    (DELAY
+      (ABSOLUTE
+        (PORT i (834:834:834) (866:866:866))
+        (IOPATH i o (1710:1710:1710) (1625:1625:1625))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_io_obuf")
+    (INSTANCE clkout4\~output)
+    (DELAY
+      (ABSOLUTE
+        (PORT i (841:841:841) (875:875:875))
+        (IOPATH i o (1700:1700:1700) (1615:1615:1615))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_io_ibuf")
+    (INSTANCE clk\~input)
+    (DELAY
+      (ABSOLUTE
+        (IOPATH i o (243:243:243) (795:795:795))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_pll")
+    (INSTANCE pll_inst\|altpll_component\|auto_generated\|pll1)
+    (DELAY
+      (ABSOLUTE
+        (PORT areset (1834:1834:1834) (1834:1834:1834))
+        (PORT inclk[0] (1121:1121:1121) (1121:1121:1121))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_clkctrl")
+    (INSTANCE pll_inst\|altpll_component\|auto_generated\|wire_pll1_clk\[0\]\~clkctrl)
+    (DELAY
+      (ABSOLUTE
+        (PORT inclk[0] (1139:1139:1139) (1135:1135:1135))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_clkctrl")
+    (INSTANCE pll_inst\|altpll_component\|auto_generated\|wire_pll1_clk\[1\]\~clkctrl)
+    (DELAY
+      (ABSOLUTE
+        (PORT inclk[0] (1139:1139:1139) (1135:1135:1135))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_clkctrl")
+    (INSTANCE pll_inst\|altpll_component\|auto_generated\|wire_pll1_clk\[2\]\~clkctrl)
+    (DELAY
+      (ABSOLUTE
+        (PORT inclk[0] (1139:1139:1139) (1135:1135:1135))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_clkctrl")
+    (INSTANCE pll_inst\|altpll_component\|auto_generated\|wire_pll1_clk\[3\]\~clkctrl)
+    (DELAY
+      (ABSOLUTE
+        (PORT inclk[0] (1139:1139:1139) (1135:1135:1135))
+      )
+    )
+  )
+)

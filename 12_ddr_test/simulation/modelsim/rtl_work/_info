@@ -1,0 +1,1750 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Project\AX530\verilog\11_ddr_test\simulation\modelsim
+T_opt
+Vz;d58h9R[YnN1Dc<P7HJj1
+04 19 4 work ddr2_example_top_tb fast 0
+=1-2c534a00823e-56172229-290-724
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L cycloneiii_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.1c;51
+valt_mem_ddrx_addr_cmd
+II9L<:W<3LY;FFa=S6R3Xn2
+VWXNZ?l5S:VQ7mbb73RSRJ1
+Z1 dE:\Project\AX530\verilog\11_ddr_test\simulation\modelsim
+Z2 w1444314067
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_addr_cmd.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_addr_cmd.v
+L0 14
+Z3 OL;L;10.1c;51
+r1
+31
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z5 !s92 -vlog01compat -work work +incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 5gjSNCLJfLj]^XK^CV9NZ3
+!s85 0
+!s108 1444356642.277000
+!s107 alt_mem_ddrx_define.iv|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_addr_cmd.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_addr_cmd.v|
+valt_mem_ddrx_addr_cmd_wrap
+IN2Ka8T2Xj;lWDER59^WlK0
+VM9joej5MVHUQRClkL<E6U3
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_addr_cmd_wrap.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_addr_cmd_wrap.v
+L0 8
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 Bi41_ceL^V:`mQSfXaCn61
+!s85 0
+!s108 1444356642.465000
+!s107 alt_mem_ddrx_define.iv|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_addr_cmd_wrap.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_addr_cmd_wrap.v|
+valt_mem_ddrx_arbiter
+IAJo8P6VShbEJN@mBVBaDe1
+V8GfB?0zFbgcZk]KS7ROMf2
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_arbiter.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_arbiter.v
+L0 5
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 hlE4_?Bo0_3`VnPmXaRMF0
+!s85 0
+!s108 1444356637.925000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_arbiter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_arbiter.v|
+valt_mem_ddrx_buffer
+I[ddPe_XbBZm]8T@ooQJNG2
+V]Q5b9M]7k:B2G25lz3]@:1
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_buffer.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_buffer.v
+L0 4
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 dgGhmzz17b5n4<Vg1PIFV1
+!s85 0
+!s108 1444356638.268000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_buffer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_buffer.v|
+valt_mem_ddrx_buffer_manager
+I_mI1^V>1_XNnMEPa_zLHa3
+VC2[GhT[48L4YO5W=TnPDg1
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_buffer_manager.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_buffer_manager.v
+L0 4
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ?2bGcDP3kb5?5ijm68HaX3
+!s85 0
+!s108 1444356631.076000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_buffer_manager.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_buffer_manager.v|
+valt_mem_ddrx_burst_gen
+IB[2^DBRAOZ`9Vk19NGLWT1
+VYEiO@K?8ELSlU_`ADF7Gl3
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_burst_gen.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_burst_gen.v
+L0 7
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 jmHeACRVZn[7CFLQ`7z2A3
+!s85 0
+!s108 1444356643.042000
+!s107 alt_mem_ddrx_define.iv|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_burst_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_burst_gen.v|
+valt_mem_ddrx_burst_tracking
+IP3U^:GU3_28jI3T4X]FLF1
+VDHZEOB7nIbH@SkfXd<g4[2
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_burst_tracking.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_burst_tracking.v
+L0 6
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 4<:k3RJM1Gam1d_Q;zIfS1
+!s85 0
+!s108 1444356638.440000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_burst_tracking.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_burst_tracking.v|
+valt_mem_ddrx_cmd_gen
+I1;nKe9LkY4h1nb[:>`XEY2
+V6;OZ`_4@MfReSWgA9b3f^2
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_cmd_gen.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_cmd_gen.v
+L0 6
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 5B=YkP><5O9kUdfYF78`e1
+!s85 0
+!s108 1444356643.229000
+!s107 alt_mem_ddrx_define.iv|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_cmd_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_cmd_gen.v|
+valt_mem_ddrx_controller
+IWDS2[ogRh^_mG[YG<RDgn0
+V6GicbzXjGe>UFLRkjD3Lz1
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_controller.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_controller.v
+L0 4
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 e>KD4;[]cez`2F^bRfd_;0
+!s85 0
+!s108 1444356637.020000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_controller.v|
+valt_mem_ddrx_controller_st_top
+IP?T3C?QfL2XSzVR_^gjF80
+V16;;b443QgzBBmS??mf[Y1
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_controller_st_top.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_controller_st_top.v
+L0 11
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 DXEHbK<0EI?>o=FO6;E;83
+!s85 0
+!s108 1444356642.667000
+!s107 alt_mem_ddrx_define.iv|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_controller_st_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_controller_st_top.v|
+valt_mem_ddrx_csr
+ISdWJ8Q6<oKSb8[0SIb^2T0
+VbA^U8M09kM46c097Uf?0`1
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_csr.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_csr.v
+L0 5
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 @Z9LEABB2Ek55]>:NFNYV0
+!s85 0
+!s108 1444356630.671000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_csr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_csr.v|
+valt_mem_ddrx_dataid_manager
+I@kZ;9?ZgXR4@jL=9fRg<@2
+V=S:IIdK<[9Me?^240i^Nc1
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_dataid_manager.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_dataid_manager.v
+L0 6
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 N8UaDjMKk1j<1l[LlzIDG0
+!s85 0
+!s108 1444356638.611000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_dataid_manager.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_dataid_manager.v|
+valt_mem_ddrx_ddr2_odt_gen
+I;Gdb?Ed`E6EKW@JB1_LB[1
+VJnfmnFidYMUCg4U[L9=H61
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ddr2_odt_gen.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ddr2_odt_gen.v
+L0 8
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 _T4aciNS5XMmRTHe[UTd81
+!s85 0
+!s108 1444356637.270000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ddr2_odt_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ddr2_odt_gen.v|
+valt_mem_ddrx_ddr3_odt_gen
+IT@^]S^0:BKM8D2eV3LZoj1
+V5ORK97mOST[]9<aR:Icc_1
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ddr3_odt_gen.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ddr3_odt_gen.v
+L0 5
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ]ZTN0SNN`Uc[4oGW5O^]Y2
+!s85 0
+!s108 1444356637.488000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ddr3_odt_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ddr3_odt_gen.v|
+valt_mem_ddrx_ecc_decoder
+I9DOz`jS?VL]=V^Ak1`P`:1
+Vl9PTl@8@_P`7l8][EYCMS2
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder.v
+L0 5
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 DWO:OCNnWN2F]1emJ8SLE3
+!s85 0
+!s108 1444356639.360000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder.v|
+valt_mem_ddrx_ecc_decoder_32
+IQ=Dz0HHW4cIoQL?ghR4=S1
+VUg]W^Ne7PmmPjL;5e6WI<3
+R1
+R2
+Z6 8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder_32_syn.v
+Z7 FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder_32_syn.v
+L0 399
+R3
+r1
+31
+Z8 !s108 1444356639.532000
+Z9 !s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder_32_syn.v|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder_32_syn.v|
+R4
+R5
+!i10b 1
+!s100 emMPo7aDN7bdCU`;o`3Mc2
+!s85 0
+valt_mem_ddrx_ecc_decoder_32_altecc_decoder
+IXT;GQNh@a^NQmd3AQgkB41
+V7GPknkFERSdzg4GBV_c?D0
+R1
+R2
+R6
+R7
+L0 225
+R3
+r1
+31
+R8
+R9
+R10
+R4
+R5
+!i10b 1
+!s100 3_e0J8FiCWdiY<N6AE4@Q3
+!s85 0
+valt_mem_ddrx_ecc_decoder_32_decode
+IN@JWQiVQiKXcYWT0_G0XZ1
+VEMhBPMVBh;Uc^MPb14OlZ2
+R1
+R2
+R6
+R7
+L0 50
+R3
+r1
+31
+R8
+R9
+R10
+R4
+R5
+!i10b 1
+!s100 a^zbBcg`6:C[fPW_V;_Rl1
+!s85 0
+valt_mem_ddrx_ecc_decoder_64
+IVTdIEFaec8i79d6=[@lG91
+VhaUOEj<a;9b68kT<fF;QX0
+R1
+R2
+Z11 8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder_64_syn.v
+Z12 FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder_64_syn.v
+L0 617
+R3
+r1
+31
+Z13 !s108 1444356633.151000
+Z14 !s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder_64_syn.v|
+Z15 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_decoder_64_syn.v|
+R4
+R5
+!i10b 1
+!s100 8:UJ@C5F5:Aa^_NRlz>@W1
+!s85 0
+valt_mem_ddrx_ecc_decoder_64_altecc_decoder
+I5_Q`52jfKnIT1L8_W8?>[0
+VRmMRiajWcNoBNF7PNZ]jY1
+R1
+R2
+R11
+R12
+L0 377
+R3
+r1
+31
+R13
+R14
+R15
+R4
+R5
+!i10b 1
+!s100 Y_jobk8XhfM<en2X1YAUY0
+!s85 0
+valt_mem_ddrx_ecc_decoder_64_decode
+ImRJBJIk2ooCnk3gi8?`Yd2
+Vh0o^mmU7C0FBVaZUD<ePm3
+R1
+R2
+R11
+R12
+L0 50
+R3
+r1
+31
+R13
+R14
+R15
+R4
+R5
+!i10b 1
+!s100 a1H1<HQSF=[O4KdEeV9No2
+!s85 0
+valt_mem_ddrx_ecc_encoder
+IW0LW4hLjBMJg_BVK;SL@43
+VL^b3@ILMKFFcUCD[8JgS_3
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder.v
+L0 5
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 zTezQ;hP85KG;SV@W`;C<1
+!s85 0
+!s108 1444356639.891000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder.v|
+valt_mem_ddrx_ecc_encoder_32
+I273J17FDLjlWfLozW4iea2
+V=]5IZ81``T9G@[fh0hf8D1
+R1
+R2
+Z16 8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_32_syn.v
+Z17 FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_32_syn.v
+L0 216
+R3
+r1
+31
+Z18 !s108 1444356640.187000
+Z19 !s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_32_syn.v|
+Z20 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_32_syn.v|
+R4
+R5
+!i10b 1
+!s100 Q4Gi^l]D6HVQ0V:k;FR4[1
+!s85 0
+valt_mem_ddrx_ecc_encoder_32_altecc_encoder
+IcT;akb>@^0ehiO;aJnaW63
+V]3`kUo]zK;nV?>6=58]Xg3
+R1
+R2
+R16
+R17
+L0 46
+R3
+r1
+31
+R18
+R19
+R20
+R4
+R5
+!i10b 1
+!s100 G4<`R@mej7a1dKO9Q8AoM2
+!s85 0
+valt_mem_ddrx_ecc_encoder_64
+IIAY<Uh1M9n_CVLG>U^??33
+VSg:1z9g>jII80OKLMX4T<2
+R1
+R2
+Z21 8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_64_syn.v
+Z22 FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_64_syn.v
+L0 315
+R3
+r1
+31
+Z23 !s108 1444356633.947000
+Z24 !s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_64_syn.v|
+Z25 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_64_syn.v|
+R4
+R5
+!i10b 1
+!s100 9Hze7TQk9K3HMz_B4]O]11
+!s85 0
+valt_mem_ddrx_ecc_encoder_64_altecc_encoder
+INf5mn=gfUl_cA:[_3P83Z2
+VGdSk_LizGFJHKGdNhaXE80
+R1
+R2
+R21
+R22
+L0 46
+R3
+r1
+31
+R23
+R24
+R25
+R4
+R5
+!i10b 1
+!s100 M9K7IDJ:<A?Tk]K;P5K_T2
+!s85 0
+valt_mem_ddrx_ecc_encoder_decoder_wrapper
+IaB4?eP3J58izf^N;9g>bc3
+VhVOilL@kiANLA3<eYIMcN1
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_decoder_wrapper.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_decoder_wrapper.v
+L0 5
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 =Ae625lRiz]O@=gdm60?@3
+!s85 0
+!s108 1444356640.421000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_decoder_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_ecc_encoder_decoder_wrapper.v|
+valt_mem_ddrx_fifo
+I>;Fz_K50ng@=P?a;zkUz40
+Vol[VUkX:7DAB]A9chi7d?1
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_fifo.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_fifo.v
+L0 4
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ]of7Gi;;HgD850j;oocoT2
+!s85 0
+!s108 1444356638.845000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_fifo.v|
+valt_mem_ddrx_input_if
+I0W=n>^nNz71mYK56l60ce2
+Ve=>]zATDe]n[UE8_O=BcG2
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_input_if.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_input_if.v
+L0 2
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 >Vlgz<lk?kn61lNTJ6naf1
+!s85 0
+!s108 1444356640.608000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_input_if.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_input_if.v|
+valt_mem_ddrx_list
+I^:MEb=mc^S?Yg[CgXRO<=1
+V9Vmfm;6z;OOJKB1ZHLVVh0
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_list.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_list.v
+L0 6
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 73N1aUoSFfLNckAkhIcBk2
+!s85 0
+!s108 1444356639.017000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_list.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_list.v|
+valt_mem_ddrx_lpddr2_addr_cmd
+IKofc=2GzS0Qm6?T1Fm8SB2
+VQG_[JOQPggQ<jaOV=ZB]40
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_lpddr2_addr_cmd.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_lpddr2_addr_cmd.v
+L0 10
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 fFl0aA<_DBK_l>133MKjU3
+!s85 0
+!s108 1444356629.236000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_lpddr2_addr_cmd.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_lpddr2_addr_cmd.v|
+valt_mem_ddrx_mm_st_converter
+I^HCabG5@`B53oEzYVe6YE0
+V525D1U1oPLon16mDH:2gN3
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_mm_st_converter.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_mm_st_converter.v
+L0 13
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 JIQhLJ`OlU^`2@d0;7zV<2
+!s85 0
+!s108 1444356640.749000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_mm_st_converter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_mm_st_converter.v|
+valt_mem_ddrx_odt_gen
+I13Jg_VXeA89?]W8Kf9B5O0
+VZ37CDc]UmOJVCB5Ue6Jh^2
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_odt_gen.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_odt_gen.v
+L0 7
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 A9B<6A7BBJgagGCAQkFYk3
+!s85 0
+!s108 1444356642.870000
+!s107 alt_mem_ddrx_define.iv|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_odt_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_odt_gen.v|
+valt_mem_ddrx_rank_timer
+I<?B4[nB5zBa@>;En0=MP:3
+VOo:L8aXaEF?3mYNiTzA>C1
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rank_timer.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rank_timer.v
+L0 7
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ;Ro?I[HkjQ@T8DkNS9>C>2
+!s85 0
+!s108 1444356640.920000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rank_timer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rank_timer.v|
+valt_mem_ddrx_rdata_path
+IW2?>^RW]5Eeg5fUOa9Kf@2
+VLSDQCFbbf`8EcoFifTGJR2
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rdata_path.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rdata_path.v
+L0 8
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 Kb526Kk?^e]m96SDSGk8o1
+!s85 0
+!s108 1444356643.447000
+!s107 alt_mem_ddrx_define.iv|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rdata_path.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rdata_path.v|
+valt_mem_ddrx_rdwr_data_tmg
+IBGTTbdV5[5fhglhbD9lhb3
+V_SCU=:aP[C]3O0AoLBW=o1
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rdwr_data_tmg.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rdwr_data_tmg.v
+L0 22
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 FOe=@Tk;RW4cE4Z7mJQ863
+!s85 0
+!s108 1444356637.707000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rdwr_data_tmg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_rdwr_data_tmg.v|
+valt_mem_ddrx_sideband
+I_904hbLIck=fHRG3[>b=B1
+VnVzS8Ezh8a`]c@4FO@Qb?0
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_sideband.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_sideband.v
+L0 7
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 l^^QMjKbZO47M4^;nUDU_3
+!s85 0
+!s108 1444356643.650000
+!s107 alt_mem_ddrx_define.iv|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_sideband.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_sideband.v|
+valt_mem_ddrx_tbp
+IBX^M95:QEz8d;cGojGFF32
+VbEQ>nC;6jCVI513SL:c4k0
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_tbp.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_tbp.v
+L0 7
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 l^I0K7Z[NNFHJ=UconVXL1
+!s85 0
+!s108 1444356643.869000
+!s107 alt_mem_ddrx_define.iv|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_tbp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_tbp.v|
+valt_mem_ddrx_timing_param
+ICZCcb;CFDffTFHo0854S>0
+VUFHLk2bLWT3F]V8YKQ`Hf0
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_timing_param.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_timing_param.v
+L0 7
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 n3g>UoKjd1onG4BKDhNPJ2
+!s85 0
+!s108 1444356644.149000
+!s107 alt_mem_ddrx_define.iv|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_timing_param.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_timing_param.v|
+valt_mem_ddrx_wdata_path
+I34JfnaX=XbLagjoDPjmHC3
+VHR2j_2LOoT=j9[>6VVlRS0
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_wdata_path.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_wdata_path.v
+L0 5
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 2HGOBD:1FCPWFoBiGY2hV2
+!s85 0
+!s108 1444356639.157000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_wdata_path.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_ddrx_wdata_path.v|
+vddr2
+I5MJFH?F[];d61n6ab>R6X1
+V;_1QSHk<FSjRF;XzC<bzJ2
+R1
+w1444314070
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2.v
+L0 33
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 YK]ac1_I@[Kg7lbQEnZIh0
+!s85 0
+!s108 1444356635.694000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2.v|
+vddr2_alt_mem_ddrx_controller_top
+I_U?2N5731Jmf=2_SR0MF41
+VF:6<JK5MKRc?C0^=bHHmj2
+R1
+R2
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_alt_mem_ddrx_controller_top.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_alt_mem_ddrx_controller_top.v
+L0 13
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 U?R[h2GoPmoSKBFJnP>]T0
+!s85 0
+!s108 1444356641.934000
+!s107 alt_mem_ddrx_define.iv|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_alt_mem_ddrx_controller_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_alt_mem_ddrx_controller_top.v|
+vddr2_controller_phy
+I5kiOLBAT2M<_56^DMm2JE2
+VGc`XIAGPGZ?2[GHVo8YL[2
+R1
+w1444314051
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_controller_phy.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_controller_phy.v
+L0 21
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 `?d4UZf749ePVF:Y4g[?O3
+!s85 0
+!s108 1444356641.404000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_controller_phy.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_controller_phy.v|
+vddr2_ex_lfsr8
+IkcbQ_JzbUZa;NKQ7Y7>af3
+VD[jO6ldU]<kfo`ad6@?Bh1
+R1
+Z26 w1444314053
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_ex_lfsr8.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_ex_lfsr8.v
+L0 2
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 FfeGL6`6FobCZ4a`kJ`WN3
+!s85 0
+!s108 1444356641.778000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_ex_lfsr8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_ex_lfsr8.v|
+vddr2_example_driver
+In?IRiRJbUQSl>7]Xafmi;2
+V[?ah:NncUoX4^OfhkB]SD1
+R1
+w1444314052
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_example_driver.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_example_driver.v
+L0 21
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ^R@GDK56jiKk59d?S`aoP0
+!s85 0
+!s108 1444356641.591000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_example_driver.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_example_driver.v|
+vddr2_example_top
+I]D>mGNXMezUL1kHBXYb[01
+VzGcIV1=6F_ze[8;HW@T701
+R1
+R26
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_example_top.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_example_top.v
+L0 30
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 Q0ngm_CzXYAYDMO70<Nng2
+!s85 0
+!s108 1444356636.880000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_example_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_example_top.v|
+vddr2_example_top_tb
+IHg1M[Y<>NC>HlSnaO]K<43
+V<lZSP17AGYNnX@jTdO;oo0
+R1
+R26
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/testbench/ddr2_example_top_tb.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/testbench/ddr2_example_top_tb.v
+L0 73
+R3
+r1
+31
+R4
+Z27 !s92 -vlog01compat -work work +incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore/testbench -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 ieFFjHLbfK06ZZNcV`Hl80
+!s85 0
+!s108 1444356649.219000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/testbench/ddr2_example_top_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore/testbench|E:/Project/AX530/verilog/11_ddr_test/ipcore/testbench/ddr2_example_top_tb.v|
+vddr2_mem_model
+IOU^oR[GVIX`@OF7535k]51
+V:g`WSOn[;^FG=jQ^6;9cQ3
+R1
+R26
+Z28 8E:/Project/AX530/verilog/11_ddr_test/ipcore/testbench/ddr2_mem_model.v
+Z29 FE:/Project/AX530/verilog/11_ddr_test/ipcore/testbench/ddr2_mem_model.v
+L0 128
+R3
+r1
+31
+Z30 !s108 1444356648.923000
+Z31 !s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/testbench/ddr2_mem_model.v|
+Z32 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore/testbench|E:/Project/AX530/verilog/11_ddr_test/ipcore/testbench/ddr2_mem_model.v|
+R4
+R27
+!i10b 1
+!s100 c0He9YP]Q;:e5mcW7ldPh0
+!s85 0
+vddr2_mem_model_ram_module
+Ia7M2@Yz1=_dCXE`MgS2V12
+VfE3S]ZIT9:CX1We75zB[k2
+R1
+R26
+R28
+R29
+L0 26
+R3
+r1
+31
+R30
+R31
+R32
+R4
+R27
+!i10b 1
+!s100 T];jjgD4XcEG`k`LP0L>C0
+!s85 0
+vddr2_phy
+IikcCKT3CKG63AWFjHJ]4?2
+VEYk@B^DFOZMk3zYK1HEh:3
+R1
+w1444314116
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy.v
+L0 33
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 oDMJcDMbM]YPGmW7NbWiP0
+!s85 0
+!s108 1444356636.739000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy.v|
+vddr2_phy_alt_mem_phy
+IAlZUz`^^5VGGaFX1=I8Dk3
+VDBWD06YcVim3jc9Z_lK`[1
+R1
+Z33 w1444314112
+Z34 8E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy.v
+Z35 FE:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy.v
+L0 11
+R3
+r1
+31
+Z36 !s108 1444356644.539000
+Z37 !s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_phy_defines.v|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy.v|
+Z38 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy.v|
+R4
+R5
+!i10b 1
+!s100 inVc[3DC7dP1EEZ]j<jF<2
+!s85 0
+vddr2_phy_alt_mem_phy_ac
+I^I?_i=U=c93[Mi5I_9=W<3
+V8LHL[4Q8S[4ZmP`BHVE8V2
+R1
+R33
+R34
+R35
+L0 1782
+R3
+r1
+31
+R36
+R37
+R38
+R4
+R5
+!i10b 1
+!s100 odfLN6`4fLbTdfX565TEe3
+!s85 0
+vddr2_phy_alt_mem_phy_addr_cmd
+I5Oe;@jES=JLNLMJg63VA;3
+V]zlW2LB8SKTaC2mV19Aa=2
+R1
+R33
+R34
+R35
+L0 2164
+R3
+r1
+31
+R36
+R37
+R38
+R4
+R5
+!i10b 1
+!s100 Gg9U3[i>DS49Nn;ofAg9H2
+!s85 0
+Pddr2_phy_alt_mem_phy_addr_cmd_pkg
+Z39 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z40 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z41 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+R33
+R1
+Z42 8E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_seq.vhd
+Z43 FE:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_seq.vhd
+l0
+L1677
+VSH3@Qbd3ZZA5E5MUaNIUd1
+Z44 OL;C;10.1c;51
+31
+b1
+Z45 !s108 1444356646.037000
+Z46 !s90 -reportprogress|300|-93|-work|work|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_seq.vhd|
+Z47 !s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_seq.vhd|
+Z48 o-93 -work work
+Z49 tExplicit 1
+!s100 j_f:Sk;ZO5j5Z@UP>3Wdc0
+!i10b 1
+Bbody
+Z50 DPx4 work 33 ddr2_phy_alt_mem_phy_addr_cmd_pkg 0 22 SH3@Qbd3ZZA5E5MUaNIUd1
+R39
+R40
+R41
+l0
+L1984
+VH0?z>z8:nRSS4Gi``<2oS2
+R44
+31
+R45
+R46
+R47
+R48
+R49
+nbody
+!s100 1=V1PcLRkBmiR5ng9Gof30
+!i10b 1
+Eddr2_phy_alt_mem_phy_admin
+R33
+R50
+Z51 DPx4 work 31 ddr2_phy_alt_mem_phy_record_pkg 0 22 lW=9OoLWQUm]ffhd6a>mZ0
+R39
+R40
+R41
+R1
+R42
+R43
+l0
+L5343
+V^`Q4^kEGZDEeO:i8@9ID[2
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 1IXkG61^f1:eHiXM[7U_i1
+!i10b 1
+Astruct
+R50
+R51
+Z52 DEx4 work 26 ddr2_phy_alt_mem_phy_admin 0 22 ^`Q4^kEGZDEeO:i8@9ID[2
+R39
+R40
+R41
+Z53 DPx4 work 34 ddr2_phy_alt_mem_phy_constants_pkg 0 22 F7mkPP0Y3;a5W]gC@@3N`3
+l5540
+L5420
+V]Ah;;BRR_1QgEL0F9b7^X3
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 YTCW5zGF4oWOnX]c3z:nl3
+!i10b 1
+vddr2_phy_alt_mem_phy_clk_reset
+II;YFM[m0;Z3JP8B[1[i9H0
+VGT^K7IU0`:AR<2Z0?]^V^0
+R1
+R33
+R34
+R35
+L0 1039
+R3
+r1
+31
+R36
+R37
+R38
+R4
+R5
+!i10b 1
+!s100 hScNzEmZW9@XR>DiGClOH0
+!s85 0
+Pddr2_phy_alt_mem_phy_constants_pkg
+R39
+R40
+R41
+R33
+R1
+R42
+R43
+l0
+L16
+VF7mkPP0Y3;a5W]gC@@3N`3
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 =VSgG4ZP;`@]]0n2iXz^M1
+!i10b 1
+Eddr2_phy_alt_mem_phy_ctrl
+R33
+Z54 DPx4 work 34 ddr2_phy_alt_mem_phy_iram_addr_pkg 0 22 <1k?CMdzILom`J8a<>aQ@0
+R51
+R39
+R40
+R41
+R1
+R42
+R43
+l0
+L11559
+VL6]P>BzKPZQSJ`:n>g_YF0
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 8TmE[9CSEA9T=4RhJ9cVZ2
+!i10b 1
+Astruct
+R54
+R51
+Z55 DEx4 work 25 ddr2_phy_alt_mem_phy_ctrl 0 22 L6]P>BzKPZQSJ`:n>g_YF0
+R39
+R40
+R41
+R53
+l11785
+L11624
+V@G==cCVW96nA:E2c8@YbT3
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 Hd0;?b^BMYGB@R7?MjN4X3
+!i10b 1
+Eddr2_phy_alt_mem_phy_dgrb
+R33
+R53
+R54
+R50
+R51
+R39
+R40
+R41
+R1
+R42
+R43
+l0
+L7735
+VzH3eoc>__HJVZ:XOR;<?<1
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 Q]BS=^zzI58;GI4??kEM<2
+!i10b 1
+Astruct
+R53
+R54
+R50
+R51
+R39
+R40
+R41
+Z56 DEx4 work 25 ddr2_phy_alt_mem_phy_dgrb 0 22 zH3eoc>__HJVZ:XOR;<?<1
+l8441
+L7841
+V^A^K?6FO_bn=l6Hg]QQQ60
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 OLf]MSmD<d8zS0Tmdg1=X2
+!i10b 1
+Eddr2_phy_alt_mem_phy_dgwb
+R33
+R50
+R51
+R39
+R40
+R41
+R1
+R42
+R43
+l0
+L10907
+VM2kF>?UKUPg]JO_XeH5?b2
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 Xm8eNfzC__AT`O[71ink=3
+!i10b 1
+Artl
+R50
+R51
+Z57 DEx4 work 25 ddr2_phy_alt_mem_phy_dgwb 0 22 M2kF>?UKUPg]JO_XeH5?b2
+R39
+R40
+R41
+R53
+l11022
+L10974
+V`IzX78Pi7Mf:eU^Dg8UiM3
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 >=@AMBS_XRW7Y0hN7[PoH0
+!i10b 1
+vddr2_phy_alt_mem_phy_dp_io
+IMK7Ez<=U5mQ`?QDY5KzNC2
+VL=`]KJ8kU99ma]L]:oi;F3
+R1
+R33
+R34
+R35
+L0 2603
+R3
+r1
+31
+R36
+R37
+R38
+R4
+R5
+!i10b 1
+!s100 I90^F`3U]Y;ge6E:GRAEg0
+!s85 0
+Eddr2_phy_alt_mem_phy_iram
+R33
+Z58 DEx4 work 29 ddr2_phy_alt_mem_phy_iram_ram 0 22 @@gYHRo8:hHRbzL3KI7>e2
+R51
+R39
+R40
+R41
+R1
+R42
+R43
+l0
+L6888
+Vl<5S:Ab@gBO=Wdb;IYcVV0
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 ANkYdgoEmN@iokfNII^6E3
+!i10b 1
+Astruct
+Z59 DEx4 work 25 ddr2_phy_alt_mem_phy_iram 0 22 l<5S:Ab@gBO=Wdb;IYcVV0
+R53
+R51
+R39
+R40
+R41
+Z60 DPx4 work 29 ddr2_phy_alt_mem_phy_regs_pkg 0 22 Dl1cHoPC^>6dScJ_CHI212
+l7070
+L6945
+V]U1l3l?SXBo]ZjSi>FW]@2
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 klM<ISZ2M>9LEC15zId1>3
+!i10b 1
+Pddr2_phy_alt_mem_phy_iram_addr_pkg
+R39
+R40
+R41
+R33
+R1
+R42
+R43
+l0
+L3437
+V<1k?CMdzILom`J8a<>aQ@0
+R44
+31
+b1
+R45
+R46
+R47
+R48
+R49
+!s100 0?_nboHog_b^0eIKN9a7:3
+!i10b 1
+Bbody
+R54
+R39
+R40
+R41
+l0
+L3481
+V@fRTU5LXG9nFT2R6d6ZC43
+R44
+31
+R45
+R46
+R47
+R48
+R49
+nbody
+!s100 SQXBVVdKzB2IGPOQl1=Wn1
+!i10b 1
+Eddr2_phy_alt_mem_phy_iram_ram
+R33
+R51
+R39
+R40
+R41
+R1
+R42
+R43
+l0
+L6784
+V@@gYHRo8:hHRbzL3KI7>e2
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 RRTX[@K><XThD8gHf:?Lj3
+!i10b 1
+Astruct
+R51
+R39
+R40
+R41
+R58
+l6819
+L6801
+Vg8fGVA5SS^B9:HB@=5G4=3
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 IOg5UBKPNn0obFVIY5Y122
+!i10b 1
+vddr2_phy_alt_mem_phy_mimic
+I5C=5WHUnYd[d7YgEQP2oN2
+VioATVmZghgY38=L_dHzMA0
+R1
+R33
+R34
+R35
+L0 4271
+R3
+r1
+31
+R36
+R37
+R38
+R4
+R5
+!i10b 1
+!s100 N;J:>Q6MkK7404dE8^Kdb0
+!s85 0
+vddr2_phy_alt_mem_phy_mimic_debug
+IIUGkR^hjdjo<A4NS1EN;[3
+VOzQ>T1lH=?J3QKREzG1FI0
+R1
+R33
+R34
+R35
+L0 4526
+R3
+r1
+31
+R36
+R37
+R38
+R4
+R5
+!i10b 1
+!s100 G8JD9DSJ7^8XCzFU=P6eR2
+!s85 0
+Eddr2_phy_alt_mem_phy_mmi
+R33
+R51
+R39
+R40
+R41
+R1
+R42
+R43
+l0
+L4763
+V9;^7h6?QBYaicISPX_K;83
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 9EH1]UUEMiAm:RS8jQz=k2
+!i10b 1
+Astruct
+Z61 DEx4 work 24 ddr2_phy_alt_mem_phy_mmi 0 22 9;^7h6?QBYaicISPX_K;83
+R54
+R53
+R51
+R39
+R40
+R41
+R60
+l4934
+L4871
+V`hehQLgDbd]X7>o0n?U3<3
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 ciTB<llfX_EYOM<P1>;Vl3
+!i10b 1
+vddr2_phy_alt_mem_phy_mux
+IVf@Gj9QoIOM6Wb?S^OED;1
+V]NZ639F>aZ`]fikiC3`8?1
+R1
+R33
+R34
+R35
+L0 3995
+R3
+r1
+31
+R36
+R37
+R38
+R4
+R5
+!i10b 1
+!s100 PCkdVGSH_fR<T[WSNb0Xl3
+!s85 0
+vddr2_phy_alt_mem_phy_pll
+I04K;:Th?aa8o`6jn70_eG2
+VWSFKWc3bWLgo8:lL?P1TY0
+R1
+R33
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_pll.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_pll.v
+L0 39
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ooK<=X5K<b4UAdWG7R_l?1
+!s85 0
+!s108 1444356641.139000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_pll.v|
+vddr2_phy_alt_mem_phy_rdata_valid
+IdX1eBgI<kENo87khHdhho2
+Vd[62JS76;V^h2BeXbN>Ml0
+R1
+R33
+R34
+R35
+L0 3724
+R3
+r1
+31
+R36
+R37
+R38
+R4
+R5
+!i10b 1
+!s100 do?@93W;O^>A^CRfH^T@30
+!s85 0
+vddr2_phy_alt_mem_phy_read_dp
+IZ<5cEA1[Id3PT2ZN1AamO3
+VSmM@4W;l?dj98I5YhW]=;1
+R1
+R33
+R34
+R35
+L0 2942
+R3
+r1
+31
+R36
+R37
+R38
+R4
+R5
+!i10b 1
+!s100 jcOZ=I_4AI^W_NgPAm00B3
+!s85 0
+Pddr2_phy_alt_mem_phy_record_pkg
+R39
+R40
+R41
+R33
+R1
+R42
+R43
+l0
+L189
+VlW=9OoLWQUm]ffhd6a>mZ0
+R44
+31
+b1
+R45
+R46
+R47
+R48
+R49
+!s100 P:6liGDhz>b^`TX:=Ya6R2
+!i10b 1
+Bbody
+R51
+R39
+R40
+R41
+l0
+L619
+V?Hn4So<<Ame^R8:EYn^D01
+R44
+31
+R45
+R46
+R47
+R48
+R49
+nbody
+!s100 TG]gU`b^O8ja1egBU<NKn1
+!i10b 1
+Pddr2_phy_alt_mem_phy_regs_pkg
+R53
+R51
+R39
+R40
+R41
+R33
+R1
+R42
+R43
+l0
+L3643
+VDl1cHoPC^>6dScJ_CHI212
+R44
+31
+b1
+R45
+R46
+R47
+R48
+R49
+!s100 S?Oa@S<K;GSi=G`XZaNY_2
+!i10b 1
+Bbody
+R60
+R53
+R51
+R39
+R40
+R41
+l0
+L3936
+V^1lOSS<2;Z5m`odH3f=;?2
+R44
+31
+R45
+R46
+R47
+R48
+R49
+nbody
+!s100 cOhfeofXgWS:5VHAd<:f_0
+!i10b 1
+vddr2_phy_alt_mem_phy_reset_pipe
+IGU@Z8h5WEL:J4GRT7G86E3
+VcQaQ[oW7Vo@Fa[c63bjKd3
+R1
+R33
+R34
+R35
+L0 4758
+R3
+r1
+31
+R36
+R37
+R38
+R4
+R5
+!i10b 1
+!s100 KIcGOgDLoUWmE<<<8?:RP1
+!s85 0
+Eddr2_phy_alt_mem_phy_seq
+R33
+R39
+R40
+R41
+R1
+R42
+R43
+l0
+L12667
+V2Vj@Mm4HGglKY@4A;300E3
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 Ta68K_6OkodCaMkRXi1d32
+!i10b 1
+Astruct
+DEx4 work 24 ddr2_phy_alt_mem_phy_seq 0 22 2Vj@Mm4HGglKY@4A;300E3
+R55
+R57
+R56
+R59
+R61
+R52
+R50
+R54
+R53
+R60
+R39
+R40
+R41
+R51
+l13050
+L12890
+Vk@P3?ZBZFa6MnYdhV^;C:1
+R44
+31
+R45
+R46
+R47
+R48
+R49
+!s100 >WDeUlJo3ReR_55h85OBX2
+!i10b 1
+vddr2_phy_alt_mem_phy_seq_wrapper
+IM5?KDVj>F_nX[FliB0BB_0
+VzFEO1]STeBeX46Yk[MKJI0
+R1
+w1444314081
+8E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_seq_wrapper.v
+FE:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_seq_wrapper.v
+L0 9
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 P^HZ>2>F_`?BAQNlAHNAZ0
+!s85 0
+!s108 1444356644.352000
+!s107 E:/Project/AX530/verilog/11_ddr_test/ipcore/alt_mem_phy_defines.v|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_seq_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/11_ddr_test/ipcore|E:/Project/AX530/verilog/11_ddr_test/ipcore/ddr2_phy_alt_mem_phy_seq_wrapper.v|
+vddr2_phy_alt_mem_phy_write_dp_fr
+Ifg9zUI@?R62j7:@hJ<f9h1
+Vi:NP[kFRGTh_3`NNJ7L^o1
+R1
+R33
+R34
+R35
+L0 3409
+R3
+r1
+31
+R36
+R37
+R38
+R4
+R5
+!i10b 1
+!s100 2^A36aRONGn3e60[`?di13
+!s85 0

@@ -1,0 +1,115 @@
+Quartus II Archive log --	E:/Project/AX530/verilog/ov7670_ddr_vga/ov7670_ddr_vga_tmp_archive.qarlog
+
+Archive:	E:/Project/AX530/verilog/ov7670_ddr_vga/ov7670_ddr_vga_tmp_archive.qar
+Date:		Fri Aug 28 22:10:13 2015
+Quartus II 64-Bit		12.1 Build 177 11/07/2012 SJ Full Version
+
+	=========== Files Selected: ===========
+E:/Project/AX530/verilog/ov7670_ddr_vga/assignment_defaults.qdf
+E:/Project/AX530/verilog/ov7670_ddr_vga/ddr2_phy_autodetectedpins.tcl
+E:/Project/AX530/verilog/ov7670_ddr_vga/incremental_db/compiled_partitions/ov7670_ddr_vga.db_info
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_addr_cmd.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_addr_cmd_wrap.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_arbiter.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_buffer.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_buffer_manager.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_burst_gen.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_burst_tracking.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_cmd_gen.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_controller.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_controller_st_top.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_csr.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_dataid_manager.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_ddr2_odt_gen.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_ddr3_odt_gen.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_define.iv
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_ecc_decoder.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_ecc_decoder_32_syn.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_ecc_decoder_64_syn.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_ecc_encoder.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_ecc_encoder_32_syn.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_ecc_encoder_64_syn.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_ecc_encoder_decoder_wrapper.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_fifo.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_input_if.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_list.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_lpddr2_addr_cmd.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_mm_st_converter.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_odt_gen.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_rank_timer.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_rdata_path.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_rdwr_data_tmg.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_sideband.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_tbp.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_timing_param.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_ddrx_wdata_path.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/alt_mem_phy_defines.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/altmemphy-library/auk_ddr_hp_controller.ocp
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2.bsf
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2.html
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2.qip
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_advisor.ipa
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_alt_mem_ddrx_controller_top.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_bb.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_controller_phy.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_ex_lfsr8.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_example_driver.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_example_top.sdc
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_example_top.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_high_performance_controller-library/auk_ddr_hp_controller.ocp
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy.bsf
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy.html
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy.qip
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_alt_mem_phy.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_alt_mem_phy_pll.qip
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_alt_mem_phy_pll.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_alt_mem_phy_pll_bb.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_alt_mem_phy_seq.vhd
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_alt_mem_phy_seq_wrapper.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_alt_mem_phy_seq_wrapper.vo
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_bb.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_ddr_pins.tcl
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_ddr_timing.sdc
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_ddr_timing.tcl
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_report_timing.tcl
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_phy_report_timing_core.tcl
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/ddr2_pin_assignments.tcl
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/testbench/ddr2_example_top_tb.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/testbench/ddr2_full_mem_model.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/ddr/testbench/ddr2_mem_model.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/fifo/rdfifo.qip
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/fifo/rdfifo.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/fifo/rdfifo_bb.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/fifo/wrfifo.qip
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/fifo/wrfifo.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/fifo/wrfifo_bb.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/pll/pll.ppf
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/pll/pll.qip
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/pll/pll.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ip_core/pll/pll_bb.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/ov7670_ddr_vga.qpf
+E:/Project/AX530/verilog/ov7670_ddr_vga/ov7670_ddr_vga.qsf
+E:/Project/AX530/verilog/ov7670_ddr_vga/rtl/bank_switch.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/rtl/dcfifo_ctrl.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/rtl/ddr_2fifo_top.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/rtl/ddr_ctrl.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/rtl/mem_burst_v2.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/rtl/ov7670/camera_capture.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/rtl/ov7670/i2c_com.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/rtl/ov7670/reg_config.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/rtl/ov7670_ddr_vga.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/rtl/system_ctrl.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/rtl/vga_disp.v
+E:/Project/AX530/verilog/ov7670_ddr_vga/stp1.stp
+	======= Total: 98 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Aug 28 22:10:16 2015
+Source archive file:	E:/Project/AX530/verilog/ov7670_ddr_vga/ov7670_ddr_vga_tmp_archive.qar
+Archive was extracted into	E:/Project/AX530/verilog/ov7670_ddr_lcd/
+		 - successfully.

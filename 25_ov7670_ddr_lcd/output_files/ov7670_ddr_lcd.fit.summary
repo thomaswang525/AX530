@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Nov 11 22:03:42 2015
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : ov7670_ddr_lcd
+Top-level Entity Name : ov7670_ddr_lcd
+Family : Cyclone IV E
+Device : EP4CE30F23C8
+Timing Models : Final
+Total logic elements : 10,029 / 28,848 ( 35 % )
+    Total combinational functions : 6,941 / 28,848 ( 24 % )
+    Dedicated logic registers : 6,577 / 28,848 ( 23 % )
+Total registers : 6687
+Total pins : 95 / 329 ( 29 % )
+Total virtual pins : 0
+Total memory bits : 315,232 / 608,256 ( 52 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 2 / 4 ( 50 % )

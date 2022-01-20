@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="ov5640_ethernet">
+		<CBX_INST_ENTRY INSTANCE_NAME="|ov5640_ethernet|cmos1_fifo:cmos1_fifo_inst|dcfifo:dcfifo_component" CBX_FILE_NAME="dcfifo_hrl1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ov5640_ethernet|pll:pll_inst|altpll:altpll_component" CBX_FILE_NAME="pll_altpll.v"/>
+	</PROJECT>
+	<PROJECT NAME="ov5640_vga">
+		<CBX_INST_ENTRY INSTANCE_NAME="|ov5640_ethernet|cmos1_fifo:cmos1_fifo_inst|dcfifo:dcfifo_component" CBX_FILE_NAME="dcfifo_hrl1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ov5640_ethernet|pll:pll_inst|altpll:altpll_component" CBX_FILE_NAME="pll_altpll.v"/>
+	</PROJECT>
+</LOG_ROOT>

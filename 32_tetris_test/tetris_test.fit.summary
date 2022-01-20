@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Mar 30 15:57:35 2016
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : tetris_test
+Top-level Entity Name : tetris_test
+Family : Cyclone IV E
+Device : EP4CE30F23C8
+Timing Models : Final
+Total logic elements : 7,393 / 28,848 ( 26 % )
+    Total combinational functions : 7,357 / 28,848 ( 26 % )
+    Dedicated logic registers : 1,026 / 28,848 ( 4 % )
+Total registers : 1026
+Total pins : 26 / 329 ( 8 % )
+Total virtual pins : 0
+Total memory bits : 64,192 / 608,256 ( 11 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

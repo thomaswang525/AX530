@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="tetris_test">
+		<CBX_INST_ENTRY INSTANCE_NAME="|tetris_test|next_rom_module:U14|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_s091.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tetris_test|over_rom_module:U11|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_7v81.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tetris_test|tetris_rom_module:U8|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g691.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

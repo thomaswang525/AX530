@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Nov 11 22:14:25 2015
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : adda_test
+Top-level Entity Name : adda_test
+Family : Cyclone IV E
+Device : EP4CE30F23C8
+Timing Models : Final
+Total logic elements : 642 / 28,848 ( 2 % )
+    Total combinational functions : 438 / 28,848 ( 2 % )
+    Dedicated logic registers : 504 / 28,848 ( 2 % )
+Total registers : 504
+Total pins : 19 / 329 ( 6 % )
+Total virtual pins : 0
+Total memory bits : 36,864 / 608,256 ( 6 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

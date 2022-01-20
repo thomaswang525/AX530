@@ -1,0 +1,9 @@
+
+State Machine - |usb_test|usb_state
+Name usb_state.EP6_WR_OVER usb_state.EP6_WR_CMD usb_state.EP2_RD_OVER usb_state.EP2_RD_DATA usb_state.EP2_RD_CMD usb_state.IDLE 
+usb_state.IDLE 0 0 0 0 0 0 
+usb_state.EP2_RD_CMD 0 0 0 0 1 1 
+usb_state.EP2_RD_DATA 0 0 0 1 0 1 
+usb_state.EP2_RD_OVER 0 0 1 0 0 1 
+usb_state.EP6_WR_CMD 0 1 0 0 0 1 
+usb_state.EP6_WR_OVER 1 0 0 0 0 1 

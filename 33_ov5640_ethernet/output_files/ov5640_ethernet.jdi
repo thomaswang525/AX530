@@ -1,0 +1,8 @@
+<sld_project_info>
+  <project>
+    <hash md5_digest_80b="00000000000000000000"/>
+  </project>
+  <file_info>
+    <file checksum="0x0029989C" device="EP4CE30F23C8" path="ov5640_ethernet.sof" usercode="0xFFFFFFFF"/>
+  </file_info>
+</sld_project_info>

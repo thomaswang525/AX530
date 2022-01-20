@@ -1,0 +1,96 @@
+Quartus II Archive log --	E:/Project/AX530/verilog/sd_ddr_lcd/__sd_ddr_vga.auto.qarlog
+
+Archive:	E:/Project/AX530/verilog/sd_ddr_lcd/__sd_ddr_vga.auto.qar
+Date:		Sat Aug 29 15:08:48 2015
+Quartus II 64-Bit		12.1 Build 177 11/07/2012 SJ Full Version
+
+	=========== Files Selected: ===========
+E:/Project/AX530/verilog/sd_ddr_lcd/db/a_dpfifo_2l31.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/a_dpfifo_ej31.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/a_dpfifo_lj31.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/a_dpfifo_sk31.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/a_gray2bin_7ib.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/a_graycounter_2lc.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/a_graycounter_677.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/alt_synch_pipe_rld.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/alt_synch_pipe_sld.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altpll_2il3.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altpll_dyn_phase_le_4ho.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altpll_dyn_phase_le_5ho.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altpll_dyn_phase_le_6ho.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_1sd1.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_6424.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_7pl1.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_8424.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_am31.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_boi1.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_c424.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_d424.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_fud1.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_g424.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_i424.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_jrd1.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_lil1.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_reh1.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_rud1.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/altsyncram_vll1.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cmpr_gs8.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cmpr_hs8.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cmpr_ngc.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cmpr_o76.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cmpr_ogc.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cmpr_pgc.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cmpr_rgc.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cmpr_vgc.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_22e.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_23j.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_6ii.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_7ii.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_89j.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_8ge.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_9ii.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_aii.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_ao7.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_bii.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_bo7.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_cgi.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_cii.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_tnb.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_unb.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/cntr_vnb.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/dcfifo_1fk1.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/ddio_bidir_n5h.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/ddio_bidir_ref.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/ddio_in_9gd.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/ddio_out_akd.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/ddio_out_nhd.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/ddr_test.cbx.xml
+E:/Project/AX530/verilog/sd_ddr_lcd/db/decode_dvf.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/dffpipe_pe9.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/dffpipe_qe9.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/dffpipe_re9.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/mux_psc.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/pll_altpll.v
+E:/Project/AX530/verilog/sd_ddr_lcd/db/scfifo_5841.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/scfifo_c841.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/scfifo_j941.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/scfifo_p941.tdf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/sd_ddr_lcd.cbx.xml
+E:/Project/AX530/verilog/sd_ddr_lcd/db/sd_ddr_lcd.qpf
+E:/Project/AX530/verilog/sd_ddr_lcd/db/sd_ddr_vga.cbx.xml
+PLLJ_PLLSPE_INFO.txt
+__ddr_test.auto.qarlog
+__sd_ddr_vga.auto.qarlog
+assignment_defaults.qdf
+ddr2_phy_autodetectedpins.tcl
+sd_ddr_lcd.dpf
+sd_ddr_lcd_tmp_archive.qarlog
+sd_ddr_vga.flow.rpt
+sd_ddr_vga.map.rpt
+sd_ddr_vga.map.summary
+sd_ddr_vga.qsf
+stp1.stp
+	======= Total: 85 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

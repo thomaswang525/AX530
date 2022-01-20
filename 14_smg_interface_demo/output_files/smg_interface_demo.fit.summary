@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Nov 11 21:23:06 2015
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : smg_interface_demo
+Top-level Entity Name : smg_interface_demo
+Family : Cyclone IV E
+Device : EP4CE30F23C8
+Timing Models : Final
+Total logic elements : 179 / 28,848 ( < 1 % )
+    Total combinational functions : 163 / 28,848 ( < 1 % )
+    Dedicated logic registers : 108 / 28,848 ( < 1 % )
+Total registers : 108
+Total pins : 16 / 329 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

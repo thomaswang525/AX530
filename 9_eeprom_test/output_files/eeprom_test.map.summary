@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Nov 11 20:29:06 2015
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : eeprom_test
+Top-level Entity Name : eeprom_test
+Family : Cyclone IV E
+Total logic elements : 1,008
+    Total combinational functions : 766
+    Dedicated logic registers : 553
+Total registers : 553
+Total pins : 8
+Total virtual pins : 0
+Total memory bits : 65,536
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

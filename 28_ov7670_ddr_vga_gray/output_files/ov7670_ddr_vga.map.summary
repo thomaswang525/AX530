@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat May 28 18:27:10 2016
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : ov7670_ddr_vga
+Top-level Entity Name : ov7670_ddr_vga
+Family : Cyclone IV E
+Total logic elements : 10,830
+    Total combinational functions : 7,011
+    Dedicated logic registers : 6,881
+Total registers : 6973
+Total pins : 85
+Total virtual pins : 0
+Total memory bits : 333,664
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 2

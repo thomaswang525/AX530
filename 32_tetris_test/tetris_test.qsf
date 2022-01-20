@@ -1,0 +1,104 @@
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 1991-2009 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus II
+# Version 9.0 Build 132 02/25/2009 SJ Full Version
+# Date created = 12:25:23  December 27, 2011
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		tetris_test_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus II software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+set_global_assignment -name FAMILY "Cyclone IV E"
+set_global_assignment -name DEVICE EP4CE30F23C8
+set_global_assignment -name TOP_LEVEL_ENTITY tetris_test
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 9.0
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "12:25:23  DECEMBER 27, 2011"
+set_global_assignment -name LAST_QUARTUS_VERSION 12.1
+set_global_assignment -name USE_GENERATED_PHYSICAL_CONSTRAINTS OFF -section_id eda_blast_fpga
+set_global_assignment -name VERILOG_FILE ready_sync_module.v
+set_global_assignment -name VERILOG_FILE ready_vga_control_module.v
+set_global_assignment -name VERILOG_FILE square_gen.v
+set_global_assignment -name VERILOG_FILE tetris_test.v
+set_global_assignment -name VERILOG_FILE vga_select_module.v
+set_global_assignment -name VERILOG_FILE debouncer.v
+set_global_assignment -name VERILOG_FILE display_border.v
+set_global_assignment -name VERILOG_FILE display_little_square.v
+set_global_assignment -name VERILOG_FILE display_moving_square.v
+set_global_assignment -name VERILOG_FILE display_next_square.v
+set_global_assignment -name VERILOG_FILE game_display.v
+set_global_assignment -name VERILOG_FILE game_process.v
+set_global_assignment -name VERILOG_FILE game_sync_module.v
+set_global_assignment -name VERILOG_FILE loading_happen.v
+set_global_assignment -name VERILOG_FILE over_sync_module.v
+set_global_assignment -name VERILOG_FILE over_vga_control_module.v
+set_global_assignment -name VERILOG_FILE ready_rom_module/tetris_rom_module.v
+set_global_assignment -name VERILOG_FILE pll_module/pll_module.v
+set_global_assignment -name VERILOG_FILE over_rom_module/over_rom_module.v
+set_global_assignment -name VERILOG_FILE next_rom_module/next_rom_module.v
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+set_global_assignment -name USE_CONFIGURATION_DEVICE ON
+set_global_assignment -name RESERVE_ALL_UNUSED_PINS "AS INPUT TRI-STATED"
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name LL_ROOT_REGION ON -section_id "Root Region"
+set_global_assignment -name LL_MEMBER_STATE LOCKED -section_id "Root Region"
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"
+set_location_assignment PIN_T21 -to clk
+set_location_assignment PIN_C17 -to enter
+set_location_assignment PIN_F10 -to hsync_out
+set_location_assignment PIN_A19 -to left
+set_location_assignment PIN_D17 -to right
+set_location_assignment PIN_E13 -to rotateL
+set_location_assignment PIN_B19 -to rst_n
+set_location_assignment PIN_H11 -to vsync_out
+set_global_assignment -name RESERVE_ALL_UNUSED_PINS_NO_OUTPUT_GND "AS INPUT TRI-STATED"
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name DEVICE_FILTER_PACKAGE FBGA
+set_global_assignment -name DEVICE_FILTER_PIN_COUNT 484
+set_global_assignment -name DEVICE_FILTER_SPEED_GRADE 8
+set_location_assignment PIN_F7 -to blue_o[4]
+set_location_assignment PIN_C7 -to blue_o[3]
+set_location_assignment PIN_F8 -to blue_o[2]
+set_location_assignment PIN_G10 -to blue_o[1]
+set_location_assignment PIN_G8 -to blue_o[0]
+set_location_assignment PIN_B5 -to green_o[5]
+set_location_assignment PIN_A5 -to green_o[4]
+set_location_assignment PIN_D6 -to green_o[3]
+set_location_assignment PIN_C6 -to green_o[2]
+set_location_assignment PIN_E7 -to green_o[1]
+set_location_assignment PIN_B4 -to green_o[0]
+set_location_assignment PIN_C3 -to red_o[4]
+set_location_assignment PIN_A4 -to red_o[3]
+set_location_assignment PIN_A3 -to red_o[2]
+set_location_assignment PIN_C4 -to red_o[1]
+set_location_assignment PIN_B3 -to red_o[0]
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top

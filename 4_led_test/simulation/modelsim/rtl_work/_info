@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Project\AX530\verilog\led_test\simulation\modelsim
+vled_test
+IQ;Ia@<e>aVM9ER<cYi`XT3
+VQ1eTR5_5BbOzzbJKi0fN]2
+Z1 dE:\Project\AX530\verilog\led_test\simulation\modelsim
+w1441511355
+8E:/Project/AX530/verilog/led_test/led_test.v
+FE:/Project/AX530/verilog/led_test/led_test.v
+L0 3
+Z2 OV;L;10.1b;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+!i10b 1
+!s100 H@fZQCOW9oU2;c_Z7OFPo1
+!s85 0
+!s108 1442300539.405000
+!s107 E:/Project/AX530/verilog/led_test/led_test.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/led_test|E:/Project/AX530/verilog/led_test/led_test.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+E:/Project/AX530/verilog/led_test -O0
+vled_test_tb
+!i10b 1
+!s100 F^F1a@kWYb<5<<Il9II8n0
+IBA?BUDfzm]cbA^M>=IaD80
+ViJ]K<XJJjdnLO;MV]A>NX1
+R1
+w1442298823
+8E:/Project/AX530/verilog/led_test/simulation/modelsim/led_test.vt
+FE:/Project/AX530/verilog/led_test/simulation/modelsim/led_test.vt
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1442300539.517000
+!s107 E:/Project/AX530/verilog/led_test/simulation/modelsim/led_test.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Project/AX530/verilog/led_test/simulation/modelsim|E:/Project/AX530/verilog/led_test/simulation/modelsim/led_test.vt|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work +incdir+E:/Project/AX530/verilog/led_test/simulation/modelsim -O0

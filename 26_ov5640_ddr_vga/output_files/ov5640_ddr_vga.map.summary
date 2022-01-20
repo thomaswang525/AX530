@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Oct 31 18:46:31 2016
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : ov5640_ddr_vga
+Top-level Entity Name : ov5640_ddr_vga
+Family : Cyclone IV E
+Total logic elements : 11,774
+    Total combinational functions : 7,465
+    Dedicated logic registers : 7,524
+Total registers : 7618
+Total pins : 87
+Total virtual pins : 0
+Total memory bits : 355,168
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 2

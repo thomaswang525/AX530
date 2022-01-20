@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Nov 11 21:57:28 2015
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : sd_ddr_lcd
+Top-level Entity Name : sd_ddr_lcd
+Family : Cyclone IV E
+Device : EP4CE30F23C8
+Timing Models : Final
+Total logic elements : 11,715 / 28,848 ( 41 % )
+    Total combinational functions : 7,582 / 28,848 ( 26 % )
+    Dedicated logic registers : 8,297 / 28,848 ( 29 % )
+Total registers : 8407
+Total pins : 85 / 329 ( 26 % )
+Total virtual pins : 0
+Total memory bits : 420,704 / 608,256 ( 69 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 2 / 4 ( 50 % )

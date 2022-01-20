@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Nov 11 21:06:06 2015
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : ddr_test
+Top-level Entity Name : ddr_test
+Family : Cyclone IV E
+Total logic elements : 7,907
+    Total combinational functions : 5,703
+    Dedicated logic registers : 4,635
+Total registers : 4729
+Total pins : 49
+Total virtual pins : 0
+Total memory bits : 229,216
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

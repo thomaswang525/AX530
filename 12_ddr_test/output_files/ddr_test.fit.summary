@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Nov 11 21:07:05 2015
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : ddr_test
+Top-level Entity Name : ddr_test
+Family : Cyclone IV E
+Device : EP4CE30F23C8
+Timing Models : Final
+Total logic elements : 7,507 / 28,848 ( 26 % )
+    Total combinational functions : 5,719 / 28,848 ( 20 % )
+    Dedicated logic registers : 4,601 / 28,848 ( 16 % )
+Total registers : 4711
+Total pins : 49 / 329 ( 15 % )
+Total virtual pins : 0
+Total memory bits : 229,216 / 608,256 ( 38 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

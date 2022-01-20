@@ -1,0 +1,233 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'e_gtxc'
+Slack : -6.805
+TNS   : -47.834
+
+Type  : Slow 1200mV 85C Model Setup 'e_rxc'
+Slack : -6.283
+TNS   : -88.936
+
+Type  : Slow 1200mV 85C Model Setup 'camera_pclk'
+Slack : 13.608
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 35.330
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'e_rxc'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'camera_pclk'
+Slack : 0.485
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.759
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'e_gtxc'
+Slack : 9.676
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'e_rxc'
+Slack : 0.598
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'camera_pclk'
+Slack : 17.300
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 37.875
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'camera_pclk'
+Slack : 1.622
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.028
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'e_rxc'
+Slack : 2.176
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'e_gtxc'
+Slack : 3.519
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'e_rxc'
+Slack : 3.519
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'camera_pclk'
+Slack : 9.675
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_50M'
+Slack : 9.863
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 20.521
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'e_gtxc'
+Slack : -5.916
+TNS   : -41.502
+
+Type  : Slow 1200mV 0C Model Setup 'e_rxc'
+Slack : -5.292
+TNS   : -72.834
+
+Type  : Slow 1200mV 0C Model Setup 'camera_pclk'
+Slack : 13.918
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 35.729
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'e_rxc'
+Slack : 0.329
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'camera_pclk'
+Slack : 0.430
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.704
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'e_gtxc'
+Slack : 9.137
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'e_rxc'
+Slack : 0.931
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'camera_pclk'
+Slack : 17.620
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 38.068
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'camera_pclk'
+Slack : 1.392
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1.815
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'e_rxc'
+Slack : 1.931
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'e_rxc'
+Slack : 3.463
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'e_gtxc'
+Slack : 3.519
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'camera_pclk'
+Slack : 9.524
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_50M'
+Slack : 9.851
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 20.530
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'e_gtxc'
+Slack : -3.278
+TNS   : -19.774
+
+Type  : Fast 1200mV 0C Model Setup 'e_rxc'
+Slack : 1.832
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'camera_pclk'
+Slack : 17.234
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 38.919
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'e_rxc'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'camera_pclk'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.303
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'e_gtxc'
+Slack : 7.262
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'e_rxc'
+Slack : 2.283
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'camera_pclk'
+Slack : 18.710
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 39.892
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'camera_pclk'
+Slack : 0.788
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.859
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'e_rxc'
+Slack : 0.996
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'e_rxc'
+Slack : 3.141
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'e_gtxc'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'camera_pclk'
+Slack : 9.105
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_50M'
+Slack : 9.412
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 20.615
+TNS   : 0.000
+
+------------------------------------------------------------

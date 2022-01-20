@@ -1,0 +1,62 @@
+library verilog;
+use verilog.vl_types.all;
+entity alt_mem_ddrx_mm_st_converter is
+    generic(
+        AVL_SIZE_WIDTH  : integer := 3;
+        AVL_ADDR_WIDTH  : integer := 25;
+        AVL_DATA_WIDTH  : integer := 32;
+        LOCAL_ID_WIDTH  : integer := 8;
+        CFG_DWIDTH_RATIO: integer := 4;
+        CFG_MM_ST_CONV_REG: integer := 0
+    );
+    port(
+        ctl_clk         : in     vl_logic;
+        ctl_reset_n     : in     vl_logic;
+        ctl_half_clk    : in     vl_logic;
+        ctl_half_clk_reset_n: in     vl_logic;
+        avl_ready       : out    vl_logic;
+        avl_read_req    : in     vl_logic;
+        avl_write_req   : in     vl_logic;
+        avl_size        : in     vl_logic_vector;
+        avl_burstbegin  : in     vl_logic;
+        avl_addr        : in     vl_logic_vector;
+        avl_rdata_valid : out    vl_logic;
+        avl_rdata       : out    vl_logic_vector;
+        avl_wdata       : in     vl_logic_vector;
+        avl_be          : in     vl_logic_vector;
+        local_rdata_error: out    vl_logic_vector(3 downto 0);
+        local_multicast : in     vl_logic;
+        local_autopch_req: in     vl_logic;
+        local_priority  : in     vl_logic;
+        itf_cmd_ready   : in     vl_logic;
+        itf_cmd_valid   : out    vl_logic;
+        itf_cmd         : out    vl_logic;
+        itf_cmd_address : out    vl_logic_vector;
+        itf_cmd_burstlen: out    vl_logic_vector;
+        itf_cmd_id      : out    vl_logic_vector;
+        itf_cmd_priority: out    vl_logic;
+        itf_cmd_autopercharge: out    vl_logic;
+        itf_cmd_multicast: out    vl_logic;
+        itf_wr_data_ready: in     vl_logic;
+        itf_wr_data_valid: out    vl_logic;
+        itf_wr_data     : out    vl_logic_vector;
+        itf_wr_data_byte_en: out    vl_logic_vector;
+        itf_wr_data_begin: out    vl_logic;
+        itf_wr_data_last: out    vl_logic;
+        itf_wr_data_id  : out    vl_logic_vector;
+        itf_rd_data_ready: out    vl_logic;
+        itf_rd_data_valid: in     vl_logic;
+        itf_rd_data     : in     vl_logic_vector;
+        itf_rd_data_error: in     vl_logic;
+        itf_rd_data_begin: in     vl_logic;
+        itf_rd_data_last: in     vl_logic;
+        itf_rd_data_id  : in     vl_logic_vector
+    );
+    attribute mti_svvh_generic_type : integer;
+    attribute mti_svvh_generic_type of AVL_SIZE_WIDTH : constant is 1;
+    attribute mti_svvh_generic_type of AVL_ADDR_WIDTH : constant is 1;
+    attribute mti_svvh_generic_type of AVL_DATA_WIDTH : constant is 1;
+    attribute mti_svvh_generic_type of LOCAL_ID_WIDTH : constant is 1;
+    attribute mti_svvh_generic_type of CFG_DWIDTH_RATIO : constant is 1;
+    attribute mti_svvh_generic_type of CFG_MM_ST_CONV_REG : constant is 1;
+end alt_mem_ddrx_mm_st_converter;

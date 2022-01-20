@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Nov 11 21:50:25 2015
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Full Version
+Revision Name : sd_ddr_vga
+Top-level Entity Name : sd_ddr_vga
+Family : Cyclone IV E
+Total logic elements : 11,395
+    Total combinational functions : 7,201
+    Dedicated logic registers : 7,571
+Total registers : 7665
+Total pins : 74
+Total virtual pins : 0
+Total memory bits : 367,456
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 2

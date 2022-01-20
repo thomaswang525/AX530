@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'mywav:mywav_inst|reg_config:reg_config_inst|clock_20k'
+Slack : -2.728
+TNS   : -59.093
+
+Type  : Slow 1200mV 85C Model Setup 'clk_50m'
+Slack : -0.016
+TNS   : -0.016
+
+Type  : Slow 1200mV 85C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 12.467
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_50m'
+Slack : -0.269
+TNS   : -0.269
+
+Type  : Slow 1200mV 85C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.450
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'mywav:mywav_inst|reg_config:reg_config_inst|clock_20k'
+Slack : 0.451
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mywav:mywav_inst|reg_config:reg_config_inst|clock_20k'
+Slack : -1.487
+TNS   : -47.584
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_50m'
+Slack : 9.639
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.688
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mywav:mywav_inst|reg_config:reg_config_inst|clock_20k'
+Slack : -2.467
+TNS   : -52.657
+
+Type  : Slow 1200mV 0C Model Setup 'clk_50m'
+Slack : -0.022
+TNS   : -0.022
+
+Type  : Slow 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 12.947
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_50m'
+Slack : -0.217
+TNS   : -0.217
+
+Type  : Slow 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.399
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'mywav:mywav_inst|reg_config:reg_config_inst|clock_20k'
+Slack : 0.400
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mywav:mywav_inst|reg_config:reg_config_inst|clock_20k'
+Slack : -1.487
+TNS   : -47.584
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_50m'
+Slack : 9.637
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.693
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mywav:mywav_inst|reg_config:reg_config_inst|clock_20k'
+Slack : -0.598
+TNS   : -7.345
+
+Type  : Fast 1200mV 0C Model Setup 'clk_50m'
+Slack : 0.257
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 16.812
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_50m'
+Slack : -0.228
+TNS   : -0.228
+
+Type  : Fast 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'mywav:mywav_inst|reg_config:reg_config_inst|clock_20k'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mywav:mywav_inst|reg_config:reg_config_inst|clock_20k'
+Slack : -1.000
+TNS   : -32.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_50m'
+Slack : 9.211
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.749
+TNS   : 0.000
+
+------------------------------------------------------------

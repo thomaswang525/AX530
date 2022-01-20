@@ -1,0 +1,2 @@
+{ "Info" "IQCU_PARALLEL_AUTODETECT_MULTIPLE_PROCESSORS" "4 4 " "Parallel compilation is enabled and will use 4 of the 4 processors detected" {  } {  } 0 20030 "Parallel compilation is enabled and will use %1!i! of the %2!i! processors detected" 0 0 "" 0 -1 1440427454190 ""}
+{ "Error" "ESGN_TOP_ENTITY_IS_MISSING" "ddr_test " "Top-level design entity \"ddr_test\" is undefined" {  } {  } 0 12007 "Top-level design entity \"%1!s!\" is undefined" 0 0 "" 0 -1 1440427454236 ""}
